@@ -1,0 +1,21 @@
+/*
+ * Hoja de estilos para la aplicación web del parque acuático*
+ *
+ *
+ */
+
+ body
+ {
+ 	font-size: 16px;
+ 	font-family: arial;
+ }
+
+ header
+ {
+ 	background: url("../img/blue_gradient.jpg");
+ }
+
+ header #logo img
+ {
+ 	width: 200px;
+ }
